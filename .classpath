@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_251">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-core-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-databind-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-jaxrs-base-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-jaxrs-json-provider-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jackson-module-jaxb-annotations-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-client-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-common-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-container-jetty-http-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-container-jetty-servlet-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-container-servlet-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-container-servlet-core-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-entity-filtering-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-media-jaxb-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-media-json-jackson-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jersey-server-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-continuation-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-http-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-io-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-security-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-server-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-servlet-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-util-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-webapp-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/jetty-xml-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/typetools-0.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BUBU/Desktop/jar_files (2)/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
